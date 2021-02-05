@@ -1,6 +1,1 @@
-#include <stdio.h>
-
-int main()
-{
-    pritnf("Hello git\n");
-}
+hello git
